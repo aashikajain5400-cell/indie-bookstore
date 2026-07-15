@@ -4,11 +4,13 @@ A responsive bookstore landing page with a curated book collection, author and c
 
 ## Live demo
 
+https://indie-bookstore-one.vercel.app/
 
 > Replace `your-project-name` with the URL Vercel gives you after deployment.
 
 ## Preview
 
+<img width="1882" height="861" alt="image" src="https://github.com/user-attachments/assets/99954f1d-f991-4d7b-bb4f-4fe4194d3405" />
 
 
 ## Features
