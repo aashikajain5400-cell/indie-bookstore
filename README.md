@@ -4,13 +4,12 @@ A responsive bookstore landing page with a curated book collection, author and c
 
 ## Live demo
 
-[Open the Vercel deployment](https://your-project-name.vercel.app)
 
 > Replace `your-project-name` with the URL Vercel gives you after deployment.
 
 ## Preview
 
-![Indie Bookstore homepage](assets/screenshots/homepage-preview.png)
+
 
 ## Features
 
@@ -49,9 +48,7 @@ management2/
     ├── placeholder.png
     ├── books/
     │   └── book1.jpg ... book12.jpg
-    ├── readers/
-    └── screenshots/
-        └── homepage-preview.png
+    
 ```
 
 ## Deploy on Vercel
